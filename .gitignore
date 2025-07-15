@@ -1,1 +1,10 @@
 .Rproj.user
+*.gdb
+*.shp
+*.dbf
+*.prj
+*.cpg
+*.shx
+*.sbn
+*.sbx
+*.xml
